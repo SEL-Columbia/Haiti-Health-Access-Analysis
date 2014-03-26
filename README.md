@@ -3,7 +3,7 @@ Analysis of Health Access in Haiti
 
 See the pdf or html files for a walk-through of some ways of thinking about spatial analysis in Haiti.
 
-If you want to reproduce this, you want to follow the following steps:
+If you want to reproduce the presentation, you want to follow the following steps:
 
  * Run `make download` in the command line -- This will download the population and health facilities data into the `data/` folder.
  * Install `R` and all the packages needed (`slidify`, `knitr`, and anything that is mentioned within a `require` inside the `Rmd` file.
